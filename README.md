@@ -1,5 +1,9 @@
 # simple_angular_project
 Angular w/ Jasmine test framework. Using angular material and router
+Enter project root
+```
+cd sap
+```
 
 Build the Project
 ```
